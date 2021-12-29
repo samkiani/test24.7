@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "voiceChannelID": "",
+    "radioStationLink": "",
+    "displayIfError": true,
+    "addCredits": true,
+    "activity": "",
+    "autoReboot": true
+}
